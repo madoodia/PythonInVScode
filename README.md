@@ -16,8 +16,8 @@ $ sudo pip install virtualenv
 5. Create Virtual env in new project
 $ mkdir testProject
 $ cd testProject
-# Python 2: $ virtualenv .venv              # or any name
-# Python 3: $ python3 -m venv .venv
+- Python 2: $ virtualenv .venv              # or any name
+- Python 3: $ python3 -m venv .venv
 
 6. Activate venv
 $ source .venv/bin/activate
